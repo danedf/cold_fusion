@@ -1,0 +1,19 @@
+Trash without Goblins
+
+
+{tank}Tank Assignments
+   {skull}Death Talon Wyrmkin= |cwarriorKarnij|r 
+   {star}Death Talon Overseer= |cwarriorDecimator|r
+   {cross}Death Talon Overseer= |cwarriorTöken|r
+   {square}Death Talon Overseer= |cdruidStaff|r
+
+{healer}Healer Assignments
+   {warrior}|cwarriorKarnij|r= |cpriestKevvlar|r, |cpriestWazuhbee|r
+   {warrior}|cwarriorDecimator|r= |cshamanFidydkpminus|r, |cpriestHerpangina|r
+   {warrior}|cwarriorTöken|r= |cshamanBalgus|r, |cpriestBubble|r
+   {druid}|cdruidStaff|r= |cshamanMordiggiar|r, |cshamanShaman|r
+
+|cred*If not assigned above, you are raid healing.*|r
+
+
+|cdruid(CF-AE)|r

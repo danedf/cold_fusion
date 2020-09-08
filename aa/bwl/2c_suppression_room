@@ -1,0 +1,33 @@
+Suppression Room Assignments
+
+
+{tank}Tank Assignments
+   Death Talon Hatcher= |cwarriorKarnij|r
+   Death Talon Hatcher= |cwarriorDecimator|r
+   Corrupted Whelps= |cwarriorTöken|r
+   Corrupted Whelps= |cdruidStaff|r
+
+
+{healer}Healer Assignments
+   |cwarriorKarnij|r= |cshamanFidydkpminus|r, |cdruidBoneskrolls|r
+   |cwarriorDecimator|r= |cpriestKevvlar|r, |cpriestBubble|r, |cdruidBoneskrolls|r
+   |cwarriorTöken|r= |cshamanBalgus|r, |cpriestHerpangina|r, |cdruidAlchemiste|r
+   |cdruidStaff|r= |cdruidAlchemiste|r
+   Raid Healers= |cshamanMordiggiar|r, |cshamanSleepie|r, |cpriestWahzuhbee|r, |cpriestKooshi|r
+
+{icon spell_nature_polymorph}Polymorph Assignments
+   {moon} Blackwing Taskmaster= |cmageDakronal|r
+   {square} Blackwing Taskmaster= |cmagePositiveflow|r
+   {triangle} Blackwing Taskmaster= |cmageGoranigar|r
+
+
+|credALL|r {rogue}|crogueRogues|r |credneed to ensure they are using {icon spell_shadow_grimward} Disarm Trap on the Suppresion devices to remove the massive  {icon spell_fire_windsofwoe} Suppression Aura snare.|r
+
+
+|cblueNavigating the Rooms:|r
+
+   {tank}Tanks will be grabbing the Hatchers and Whelps accordingly. The raid needs to hard stack on the tank  {circle} and move as a single unit. Hug the walls and get to the corners. There will be gaps in combat where mana users need to drink ASAP.
+   {dps}|credAll DPS focus the Hatchers first. DO NOT AOE UNTIL INSTRUCTED!|r
+
+
+|cdruid(CF-AE)|r

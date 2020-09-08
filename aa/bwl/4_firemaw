@@ -1,0 +1,25 @@
+|cred*FIREMAW TANKED IN DOORWAY STRAT 2.0*|r
+
+
+Firemaw Assignments
+
+
+{tank}Tank Assignments
+   |cwarriorKarnij|r= Main Tank
+   |cwarriorToken|r= Standby
+   |cwarriorDecimator|r= Eat Wing Buffet
+   |cdruidStaff|r= Standby Wing Buff
+
+{healer}Healer Assignments
+   Main Tank= |cpriestBubble|r, |cshamanBalgus|r, |cdruidBoneskrolls|r, |cpriestKoosh|r, |cpriestWazuhbee|r, |cshamanGore|r
+   Melee= |cpriestHerpangina|r, |cshamanFidydkpminus|r, |cpriestKevvlar|r
+   Raid Ranged/Melee = |cshamanMordiggiar|r, |cshamanTrekeus|r
+
+
+|cblueNotes:|r
+   All  {dps} DPS need to reset  {icon spell_fire_fireball} Flame Buffet stacks around 4-8 using line of sight. Use {icon inv_misc_bandage_12} bandages while doing so to help healers. Ranged should be at 5 Max unless you pop a Greater Fire Protection Potion. Melee can judge stacks based on health and GFPP.
+
+   It is possible for range to avoid getting stacks altogether but need to be prepared to line of sight in order to reset them if they get too high.
+
+
+|cdruid(CF-AE)|r

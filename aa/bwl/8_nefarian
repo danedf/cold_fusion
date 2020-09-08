@@ -1,0 +1,40 @@
+Nefarian Assignments
+
+
+|cred*EVERYONE MUST EQUIP THIER  {icon inv_misc_cape_05} ONYXIA SCALE CLOAKS!*|r
+
+|cblueP1|r
+{tank}Tank Assignments
+
+   Odds(LEFT ON TOKEN)= |cwarriorTöken|r, |cwarriorTBD|r
+   Evens(RIGHT ON DECI)= |cdruidStaff|r, |cwarriorDor|r
+
+{healer}Healer Assignments (PAY ATTENTION TO YOUR SIDE)
+   {warrior}|cwarriorTöken|r= |cshamanTrekeus|r, |cpriestHerpangina|r
+   {warrior}|cwarriorDecimator|r= |cshamanMordiggiar|r, |cpriestWazuhbee|r
+   {warrior}|cwarriorTöken|r= |cshamanFidyDKPminus|r, |cpriestKevvlar|r
+   {druid}|cdruidStaff|r= |cshamanBalgus|r, |cdruidBoneskrolls|r
+
+|cred*If not assigned above, you are raid healing.*|r (PAY ATTENTION TO YOUR SIDE ODDS/EVENS, YOU MAY HAVE BEEN ADJUSTED)
+
+|cblueP2 and P3|r
+{tank}Tank Assignments
+   Main Tank= |cwarriorTöken|r
+
+{healer}Healer Assignments
+   {warrior} |cwarriorTöken|r= |cpriestKevvlar|r
+   {icon spell_holy_removecurse} Decurse= |cmagePositive|r
+   {icon spell_holy_removecurse} Decurse Backup= |cdruidBoneskrolls|r
+
+|cred*If not assigned above, you are tank/raid healing*|r
+
+|credALL|r {shaman} |cshamanShamans|r must place a Tremor Totem near the  {tank} tanks/ {dps} melee.
+
+{mage}Assignments during |cdruidDruid|r Class Call
+   Decurse= |cmageDakronal|r, |cmagePositiveflow|r, |cmageOrbitz|r
+
+{priest} Assignments during |cmageMAGE|r Class Call: Dispells
+|cpriestHerp|r (TANK),---  |cpriestBubble|r, |cpaladin(TANK/HEALERS)|r ,--- |cpriestWuhz|r (EVERYONE), |cpriestKevvlar|r (EVERYONE)
+
+
+|cdruid(CF-AE)|r

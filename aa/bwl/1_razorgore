@@ -1,0 +1,33 @@
+Razorgore Assignments
+
+
+|cblueP1|r
+   Orb Controller= |cmageGoranigar|r
+   Orb Controller Backup= |cwarriorBolge|r
+
+West    (KILL {cross})
+   {Tank}Tank= |cdruidStaff, |cwarriorDor|r
+   {Dps}DPS= |cwarriorxxx|r, |cwarriorxxx|r, |cwarriorxxx|r, |croguexxx|r, |croguexxx|r
+   {Healer}Healers= |cpriestKevvlar|r, |cshamanBalgus|r, |cshamanSoondubu|r, |cpriestBubble|r
+
+South     (KILL {skull})
+   {Tank}Tank= |cwarriorTöken, |cwarriorxxx                      
+   {Dps}DPS= |cwarriorxxx|r, |croguexxx|r, |cwarriorBolge|r, |croguexxx, |croguexxx|r, |croguexxx|r 
+   {Healer}Healers= |cshamanxxx|r, |cshamanGoreshura|r, |cpriest|r, |cpriestHerpangina|r, |cdruidxxx|r, |cshamanTrekeus|r
+
+|cred*If not assigned above, you are roaming or raid healing.*|r
+
+Kill priority
+   |cred1.|r Blackwing Mage
+   |corange2.|r Death Talon Dragonspawn
+   |cyellow3.|r Blackwing Legionnaire
+
+
+|cblueP2|r
+   Everyone repositions for Line of Sight when 2 eggs remain.
+   Healers will shimmy behind pillar to heal tanks while LOS Fire Bolt
+   All  {dps} dps need to line of sight  {icon spell_fire_flamebolt} {spell 22425}
+
+{Tank} Healers
+   |cwarriorTöken|r= |cpriestKevvlar|r, |cpriestBubble|r, |cdruidxxx|r, |cshamanBalgus|r
+   |cdruidStaff|r= |cshamanxxx|r, |cpriestHerpangina|r, |cdruidxxx|r
