@@ -1,0 +1,346 @@
+Razorgore Assignments
+
+
+|cblueP1|r
+   Orb Controller= |cmageGoranigar|r
+   Orb Controller Backup= |cwarriorBolge|r
+
+West    (KILL {cross})
+   {Tank}Tank= |cdruidStaff, |cwarriorDor|r
+   {Dps}DPS= |cwarriorxxx|r, |cwarriorxxx|r, |cwarriorxxx|r, |croguexxx|r, |croguexxx|r
+   {Healer}Healers= |cpriestKevvlar|r, |cshamanBalgus|r, |cshamanSoondubu|r, |cpriestBubble|r
+
+South     (KILL {skull})
+   {Tank}Tank= |cwarriorTöken, |cwarriorxxx                      
+   {Dps}DPS= |cwarriorxxx|r, |croguexxx|r, |cwarriorBolge|r, |croguexxx, |croguexxx|r, |croguexxx|r 
+   {Healer}Healers= |cshamanxxx|r, |cshamanGoreshura|r, |cpriest|r, |cpriestHerpangina|r, |cdruidxxx|r, |cshamanTrekeus|r
+
+|cred*If not assigned above, you are roaming or raid healing.*|r
+
+Kill priority
+   |cred1.|r Blackwing Mage
+   |corange2.|r Death Talon Dragonspawn
+   |cyellow3.|r Blackwing Legionnaire
+
+
+|cblueP2|r
+   Everyone repositions for Line of Sight when 2 eggs remain.
+   Healers will shimmy behind pillar to heal tanks while LOS Fire Bolt
+   All  {dps} dps need to line of sight  {icon spell_fire_flamebolt} {spell 22425}
+
+{Tank} Healers
+   |cwarriorTöken|r= |cpriestKevvlar|r, |cpriestBubble|r, |cdruidxxx|r, |cshamanBalgus|r
+   |cdruidStaff|r= |cshamanxxx|r, |cpriestHerpangina|r, |cdruidxxx|r
+   
+Vaelastrasz Assignments
+
+
+{tank}Tank Rotation
+     {warrior}|cwarriorDeci|r >{warrior}|cwarriorNext|r > {druid}|cwarriorNext|r >  {druid}|cdruidStaff|r >
+
+{healer}Healer Assignments
+    Tank Healers= |cshamanTrekeus|r, |cdruidBoneskrolls|r, |cpriestBubble|r, |cpriestKooshi|r, 
+    Raid Healers= |cyellowALL|r |cpriestPriests|r ({icon spell_holy_prayerofhealing02} Prayer), |cshamanShamans|r, |cdruid|r
+     
+|cyellowALL|r |cshamanShamans|r= Drop  {icon spell_nature_brilliance} Tranquil Air Totem in melee range. EXCEPT: Main Tank gets Windfury from Fidy.
+
+ALL |cshamanShamans|r Who are NOT tank healing, are MAX RANK Chain Healing the melee!
+
+
+
+|cblueNotes:|r
+
+{mage}{warlock}{hunter}{shaman}{druid}{priest}
+   When targeted with  {icon inv_gauntlets_03} {spell 18173}, run to the designated area spamming your best spell (it's now instant) to avoid detonating on the raid.
+
+{dps}|credDPS Consideration|r
+   While  {icon spell_fire_lavaspawn} {spell 23513} greatly increases resource generation, it is imperative to |credMONITOR THREAT|r as the boss requires a  {tank} tank swap but cannot be taunted.
+
+
+|cdruid(CF-AE)|r
+
+Wyrmkin Trash Assignments
+
+
+{tank}Tank Assignments
+   {star} Flamescale= |cwarriorKarnij|r
+   {skull} Seether= |cwarriorDecimator|r
+   {circle} Seether= |cwarriorTöken|r
+   {cross} Flamescale= |cdruidStaff|r
+
+{healer}Healer Assignments
+   |cwarriorKarnij|r= |cshamanMordiggiar|r, |cpriestBubble|r
+   |cwarriorDecimator|r=  |cshamanTrekeus|r, |cpriestHerpangina|r
+   |cwarriorTöken|r= |cshamanFidydkpminus|r, |cpriestWahzuhbee|r
+   |cdruidStaff|r=  |cshamanBalgus|r,  |cpriestKevvlar|r, |cpriestKooshi|r
+
+{icon spell_nature_sleep}Hibernate Assignments (Rank 1 spam)
+   {moon} Death Talon Wyrmkin= |cdruidBoneskrolls|r 
+   {triangle} Death Talon Wyrmkin= |cwarriorTANKED/STAFF
+{hunter}Kiting Assignments
+   {square} Captain= |chunterDiji|r
+   {square} Backup Kiter= |chunterTurok|r
+
+
+|cdruid(CF-AE)|r
+
+Suppression Room Assignments
+
+
+{tank}Tank Assignments
+   Death Talon Hatcher= |cwarriorKarnij|r
+   Death Talon Hatcher= |cwarriorDecimator|r
+   Corrupted Whelps= |cwarriorTöken|r
+   Corrupted Whelps= |cdruidStaff|r
+
+
+{healer}Healer Assignments
+   |cwarriorKarnij|r= |cshamanFidydkpminus|r, |cdruidBoneskrolls|r
+   |cwarriorDecimator|r= |cpriestKevvlar|r, |cpriestBubble|r, |cdruidBoneskrolls|r
+   |cwarriorTöken|r= |cshamanBalgus|r, |cpriestHerpangina|r, |cdruidAlchemiste|r
+   |cdruidStaff|r= |cdruidAlchemiste|r
+   Raid Healers= |cshamanMordiggiar|r, |cshamanSleepie|r, |cpriestWahzuhbee|r, |cpriestKooshi|r
+
+{icon spell_nature_polymorph}Polymorph Assignments
+   {moon} Blackwing Taskmaster= |cmageDakronal|r
+   {square} Blackwing Taskmaster= |cmagePositiveflow|r
+   {triangle} Blackwing Taskmaster= |cmageGoranigar|r
+
+
+|credALL|r {rogue}|crogueRogues|r |credneed to ensure they are using {icon spell_shadow_grimward} Disarm Trap on the Suppresion devices to remove the massive  {icon spell_fire_windsofwoe} Suppression Aura snare.|r
+
+
+|cblueNavigating the Rooms:|r
+
+   {tank}Tanks will be grabbing the Hatchers and Whelps accordingly. The raid needs to hard stack on the tank  {circle} and move as a single unit. Hug the walls and get to the corners. There will be gaps in combat where mana users need to drink ASAP.
+   {dps}|credAll DPS focus the Hatchers first. DO NOT AOE UNTIL INSTRUCTED!|r
+
+
+|cdruid(CF-AE)|r
+
+
+
+Broodlord Assignments
+
+
+{tank}Tank Assignments
+   Main Tank= |cwarriorTöken|r
+   Backup= |cwarriorKarnij|r
+
+
+{healer}Healer Assignments
+   Main Tank= |cpriestKevvlar|r, |cshamanFidydkpminus|r, |cshamanBalgus|r, |cdruidBoneskrolls|r
+   Raid= |cshamanMordiggiar|r, |cshamanTrekeus|r, |cpriestKooshi|r, |cdruidAlchemiste|r
+
+   {warrior}Karnij= |cpriestBubble|r
+   {warrior}Decimator= |cpriestHerpangina|r
+   {warrior}Töken= |cpriestWazuhbee|r
+
+
+{rogue}|crogueRogues|r |cred must continue to quickly {icon spell_shadow_grimward} Disarm Trap on the {icon spell_fire_windsofwoe} Suppresion Devices that reset in the raid during the encounter!
+
+{mage}|cmageMages|r must continue to dispatch Crimson Whelps that spawn during the encounter.
+
+Melee  {dps} need to Line of Sight  {icon spell_holy_excorcism_02} Blast Wave to avoid the significant damage and knockback.
+
+|cdruid(CF-AE)|r
+
+
+
+Trash with Goblins
+
+
+{tank}Tank Assignments
+   {star} "Big Boy"= |cwarriorKarnij|r 
+   {skull} Warlock= |cwarriorDecimator|r
+   {cross} Warlock= |cwarriorTöken|r
+   As Needed= |cdruidStaff|r 
+
+{healer}Healer Assingments
+   {warrior}|cwarriorKarnij|r= |cpriestKevvlar|r, |cpriestWazuhbee|r
+   {warrior}|cwarriorDecimator|r= |cshamanFidydkpminus|r, |cpriestWizzdom|r
+   {warrior}|cwarriorTöken|r= |cshamanBalgus|r, |cpriestBubble|r
+   {druid}|cdruidStaff|r= |cshamanMordiggiar|r (as needed)
+   {mage}|cmageMages|r= |cshamanTrekeus|r, |cdruidBoneskrolls|r, |cdruidNA|r(Backup)
+
+Crowd Control Assignments
+   {diamond}Stun-lock Spell Binder= |crogueRogues|r
+   {circle} Kite Goblin= |chunterTurok|r
+   {square} Kite Goblin= |chunterDiji|r
+   Banish Felguard= |cwarlockWarlocks|r
+
+
+|cblueNote:|r
+   To avoid the devastating bombs from the Technicians you must never stand still for too long.
+
+
+|cdruid(CF-AE)|r
+
+
+Trash without Goblins
+
+
+{tank}Tank Assignments
+   {skull}Death Talon Wyrmkin= |cwarriorKarnij|r 
+   {star}Death Talon Overseer= |cwarriorDecimator|r
+   {cross}Death Talon Overseer= |cwarriorTöken|r
+   {square}Death Talon Overseer= |cdruidStaff|r
+
+{healer}Healer Assignments
+   {warrior}|cwarriorKarnij|r= |cpriestKevvlar|r, |cpriestWazuhbee|r
+   {warrior}|cwarriorDecimator|r= |cshamanFidydkpminus|r, |cpriestHerpangina|r
+   {warrior}|cwarriorTöken|r= |cshamanBalgus|r, |cpriestBubble|r
+   {druid}|cdruidStaff|r= |cshamanMordiggiar|r, |cshamanShaman|r
+
+|cred*If not assigned above, you are raid healing.*|r
+
+
+|cdruid(CF-AE)|r
+
+
+"Three Fucks"
+
+
+{tank}Tank Assignments
+   {skull}= |cwarriorKarnij|r
+   {star}= |cwarriorTöken|r
+   {square}= |cdruidStaff|r / |cwarriorDecimator|r
+ 
+{healer}Healer Assignments
+   {warrior}|cwarriorKarnij|r= |cpriestKevvlar|r, |cshamanMordiggiar|r, |cpriestWazuhbee|r
+   {warrior}|cwarriorDecimator|r= |cshamanFidydkpminus|r, |cshamanTrekeus|r, |cpriestHerpangina|r
+   {warrior}|cwarriorTöken|r= |cshamanBalgus|r, |cpriestBubble|r, |cdruidBoneskrolls|r
+
+|cred*If not assigned above, you are raid healing.*|r
+
+
+Vulnerability Testing Assignments
+   Mages DETECT MAGIC
+
+
+|cdruid(CF-AE)|r
+
+
+|cred*FIREMAW TANKED IN DOORWAY STRAT 2.0*|r
+
+
+Firemaw Assignments
+
+
+{tank}Tank Assignments
+   |cwarriorKarnij|r= Main Tank
+   |cwarriorToken|r= Standby
+   |cwarriorDecimator|r= Eat Wing Buffet
+   |cdruidStaff|r= Standby Wing Buff
+
+{healer}Healer Assignments
+   Main Tank= |cpriestBubble|r, |cshamanBalgus|r, |cdruidBoneskrolls|r, |cpriestKoosh|r, |cpriestWazuhbee|r, |cshamanGore|r
+   Melee= |cpriestHerpangina|r, |cshamanFidydkpminus|r, |cpriestKevvlar|r
+   Raid Ranged/Melee = |cshamanMordiggiar|r, |cshamanTrekeus|r
+
+
+|cblueNotes:|r
+   All  {dps} DPS need to reset  {icon spell_fire_fireball} Flame Buffet stacks around 4-8 using line of sight. Use {icon inv_misc_bandage_12} bandages while doing so to help healers. Ranged should be at 5 Max unless you pop a Greater Fire Protection Potion. Melee can judge stacks based on health and GFPP.
+
+   It is possible for range to avoid getting stacks altogether but need to be prepared to line of sight in order to reset them if they get too high.
+
+
+|cdruid(CF-AE)|r
+
+
+Ebonroc Assignments
+
+
+{healer}Healer Assignments
+   Raid= |cshamanBalgus|r, |cshamanMordiggiar|r, |cshamanFidyDKPMinus|r, |cpriestWazuhbee|r
+
+|cred*If not assigned above, you are tank healing MAIN TANK.*|r
+
+
+|cdruid(CF-AE)|r
+
+
+
+Flamegor Assignments
+
+
+{icon spell_nature_drowsy}Tranquilizing Shot Rotation
+   |chunterTurok|r > |chunterDiji|r
+
+{healer}Healer Assignments
+Raid= |cshamanBalgus|r, |cshamanMordiggiar|r, |cshamanFidyDKPMinus|r, |cpriestKooshi|r
+
+|cred*If not assigned above, you are tank healing.*|r
+
+
+|cdruid(CF-AE)|r
+
+
+
+Chromaggus Assignments
+
+
+{tank}Tank Assignments
+   Tank- |cwarriorToken|r
+   Backup Tank - |cwarriorKarnij|r
+   Time Lapse Tank= |cwarriorDecimator|r
+   
+
+{healer}Healer Assignments
+   {warrior}|cwarriorTöken|r= |cpriestKooshi|r, |cshamanTrekeus|r, |cpriestBubble|r, |cpriestHerpangina|r, |cdruidBoneskrolls|r 
+   "Cubby" Healer= |cpriestKevvlar|r, |cshamanFidyDKPMinus|r (Avoid Breaths, Can Still Tank Heal)
+
+|cred*If not assigned above, you are raid healing and using your class's cure ({icon spell_holy_dispelmagic} {icon spell_nature_diseasecleansingtotem} {icon spell_nature_poisoncleansingtotem} {icon spell_holy_removecurse})*|r
+
+
+Vulnerability Testing Assignments
+ MAGES DETECT MAGIC
+
+{icon spell_nature_drowsy}Tranquilizing Shot Rotation
+   |chunterTurok|r > |chunterDiji|r
+
+
+
+|cdruid(CF-AE)|r
+
+
+Nefarian Assignments
+
+
+|cred*EVERYONE MUST EQUIP THIER  {icon inv_misc_cape_05} ONYXIA SCALE CLOAKS!*|r
+
+|cblueP1|r
+{tank}Tank Assignments
+
+   Odds(LEFT ON TOKEN)= |cwarriorTöken|r, |cwarriorTBD|r
+   Evens(RIGHT ON DECI)= |cdruidStaff|r, |cwarriorDor|r
+
+{healer}Healer Assignments (PAY ATTENTION TO YOUR SIDE)
+   {warrior}|cwarriorTöken|r= |cshamanTrekeus|r, |cpriestHerpangina|r
+   {warrior}|cwarriorDecimator|r= |cshamanMordiggiar|r, |cpriestWazuhbee|r
+   {warrior}|cwarriorTöken|r= |cshamanFidyDKPminus|r, |cpriestKevvlar|r
+   {druid}|cdruidStaff|r= |cshamanBalgus|r, |cdruidBoneskrolls|r
+
+|cred*If not assigned above, you are raid healing.*|r (PAY ATTENTION TO YOUR SIDE ODDS/EVENS, YOU MAY HAVE BEEN ADJUSTED)
+
+|cblueP2 and P3|r
+{tank}Tank Assignments
+   Main Tank= |cwarriorTöken|r
+
+{healer}Healer Assignments
+   {warrior} |cwarriorTöken|r= |cpriestKevvlar|r
+   {icon spell_holy_removecurse} Decurse= |cmagePositive|r
+   {icon spell_holy_removecurse} Decurse Backup= |cdruidBoneskrolls|r
+
+|cred*If not assigned above, you are tank/raid healing*|r
+
+|credALL|r {shaman} |cshamanShamans|r must place a Tremor Totem near the  {tank} tanks/ {dps} melee.
+
+{mage}Assignments during |cdruidDruid|r Class Call
+   Decurse= |cmageDakronal|r, |cmagePositiveflow|r, |cmageOrbitz|r
+
+{priest} Assignments during |cmageMAGE|r Class Call: Dispells
+|cpriestHerp|r (TANK),---  |cpriestBubble|r, |cpaladin(TANK/HEALERS)|r ,--- |cpriestWuhz|r (EVERYONE), |cpriestKevvlar|r (EVERYONE)
+
+
+|cdruid(CF-AE)|r
