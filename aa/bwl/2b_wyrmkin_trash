@@ -2,23 +2,20 @@ Wyrmkin Trash Assignments
 
 
 {tank}Tank Assignments
-   {star} Flamescale= |cwarriorKarnij|r
-   {skull} Seether= |cwarriorDecimator|r
-   {circle} Seether= |cwarriorTöken|r
-   {cross} Flamescale= |cdruidStaff|r
+  {star} Flamescale= |cwarriorTöken|r
+  {skull} Seether= |cdruidStaff|r
+  {cross} Seether= |cwarriorDor|r
+  {circle} Flamescale= |cwarriorXanarch|r
 
-{healer}Healer Assignments
-   |cwarriorKarnij|r= |cshamanMordiggiar|r, |cpriestBubble|r
-   |cwarriorDecimator|r=  |cshamanTrekeus|r, |cpriestHerpangina|r
-   |cwarriorTöken|r= |cshamanFidydkpminus|r, |cpriestWahzuhbee|r
-   |cdruidStaff|r=  |cshamanBalgus|r,  |cpriestKevvlar|r, |cpriestKooshi|r
+{healer}Healer Assingments
+  {warrior}|cwarriorTöken|r= |cpriestBubble|r, |cshamanSoondubu|r
+  {druid}|cdruidStaff|r= |cpriestKevvlar|r, |cshamanKurzol|r
+  {warrior}|cwarriorDor|r= |cpriestHerpangina|r, |cshamanBalgus|r
+  {warrior}|cwarriorXanarch|r= |cpriestDilaudid|r, |cshamanTrekeus|r
 
 {icon spell_nature_sleep}Hibernate Assignments (Rank 1 spam)
-   {moon} Death Talon Wyrmkin= |cdruidBoneskrolls|r 
-   {triangle} Death Talon Wyrmkin= |cwarriorTANKED/STAFF
+  {moon} Death Talon Wyrmkin= |cdruidHyperchad|r 
+  {triangle} Death Talon Wyrmkin= |cdruidElac|r
 {hunter}Kiting Assignments
-   {square} Captain= |chunterDiji|r
-   {square} Backup Kiter= |chunterTurok|r
-
-
-|cdruid(CF-AE)|r
+  {square} Captain= |chunterLootwhore|r
+  {square} Backup Kiter= |chunterZali|r

@@ -1,10 +1,13 @@
 Ebonroc Assignments
 
 
+{tank}Tank Assignments
+  Main Tanks= |cwarriorTöken|r, |cdruidStaff|r, |cwarriorDor|r
+  Backup Tank= |cdruidElac|r
+
+Tanks will be taunting when someone gets *Shadow of Ebonroc*.
+
 {healer}Healer Assignments
-   Raid= |cshamanBalgus|r, |cshamanMordiggiar|r, |cshamanFidyDKPMinus|r, |cpriestWazuhbee|r
+  Raid= |cshamanBalgus|r, |cshamanSoondubu|r, |cshamanKurzol|r, |cpriestBubblé|r
 
 |cred*If not assigned above, you are tank healing MAIN TANK.*|r
-
-
-|cdruid(CF-AE)|r

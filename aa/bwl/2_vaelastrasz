@@ -2,13 +2,13 @@ Vaelastrasz Assignments
 
 
 {tank}Tank Rotation
-     {warrior}|cwarriorDeci|r >{warrior}|cwarriorNext|r > {druid}|cwarriorNext|r >  {druid}|cdruidStaff|r >
+     {warrior}|cwarriorTöken|r >{druid}|cdruidStaff|r > {warrior}|cwarriorDor|r >  {druid}|cdruidElac|r
 
 {healer}Healer Assignments
-    Tank Healers= |cshamanTrekeus|r, |cdruidBoneskrolls|r, |cpriestBubble|r, |cpriestKooshi|r, 
-    Raid Healers= |cyellowALL|r |cpriestPriests|r ({icon spell_holy_prayerofhealing02} Prayer), |cshamanShamans|r, |cdruid|r
+    Tank Healers= |cshamanTrekeus|r, |cdruidHyperchad|r, |cpriestBubble|r, |cpriestKevvlar|r
+    Raid Healers= |cyellowALL|r |cpriestPriests|r ({icon spell_holy_prayerofhealing02} Prayer), |cshamanShamans|r
      
-|cyellowALL|r |cshamanShamans|r= Drop  {icon spell_nature_brilliance} Tranquil Air Totem in melee range. EXCEPT: Main Tank gets Windfury from Fidy.
+|cyellowALL|r |cshamanShamans|r= Drop  {icon spell_nature_brilliance} Tranquil Air Totem in melee range. EXCEPT: Main Tank gets Windfury Group 1 |cshamanShaman|r.
 
 ALL |cshamanShamans|r Who are NOT tank healing, are MAX RANK Chain Healing the melee!
 
@@ -21,6 +21,3 @@ ALL |cshamanShamans|r Who are NOT tank healing, are MAX RANK Chain Healing the m
 
 {dps}|credDPS Consideration|r
    While  {icon spell_fire_lavaspawn} {spell 23513} greatly increases resource generation, it is imperative to |credMONITOR THREAT|r as the boss requires a  {tank} tank swap but cannot be taunted.
-
-
-|cdruid(CF-AE)|r

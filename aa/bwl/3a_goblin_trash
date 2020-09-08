@@ -2,27 +2,24 @@ Trash with Goblins
 
 
 {tank}Tank Assignments
-   {star} "Big Boy"= |cwarriorKarnij|r 
-   {skull} Warlock= |cwarriorDecimator|r
-   {cross} Warlock= |cwarriorTöken|r
-   As Needed= |cdruidStaff|r 
+  {star} "Big Boy"= |cwarriorTöken|r 
+  {skull} Warlock= |cdruidStaff|r
+  {cross} Warlock= |cwarriorDor|r
+  As Needed= |cdruidElac|r 
 
 {healer}Healer Assingments
-   {warrior}|cwarriorKarnij|r= |cpriestKevvlar|r, |cpriestWazuhbee|r
-   {warrior}|cwarriorDecimator|r= |cshamanFidydkpminus|r, |cpriestWizzdom|r
-   {warrior}|cwarriorTöken|r= |cshamanBalgus|r, |cpriestBubble|r
-   {druid}|cdruidStaff|r= |cshamanMordiggiar|r (as needed)
-   {mage}|cmageMages|r= |cshamanTrekeus|r, |cdruidBoneskrolls|r, |cdruidNA|r(Backup)
+  {warrior}|cwarriorTöken|r= |cpriestBubble|r, |cshamanSoondubu|r
+  {druid}|cdruidStaff|r= |cpriestKevvlar|r, |cshamanKurzol|r
+  {warrior}|cwarriorDor|r= |cpriestHerpangina|r, |cshamanBalgus|r
+  {druid}|cdruidElac|r= |cshamanTrekeus|r (as needed)
+  {mage}|cmageMages|r= |cshamanGoreshura|r, |cdruidHyperchad|r
 
 Crowd Control Assignments
-   {diamond}Stun-lock Spell Binder= |crogueRogues|r
-   {circle} Kite Goblin= |chunterTurok|r
-   {square} Kite Goblin= |chunterDiji|r
-   Banish Felguard= |cwarlockWarlocks|r
+  {diamond}Stun-lock Spell Binder= |crogueRogues|r
+  {circle} Kite Goblin= |chunterLootwhore|r
+  {square} Kite Goblin= |chunterZali|r
+  Banish Felguard= |cwarlockWarlocks|r
 
 
 |cblueNote:|r
    To avoid the devastating bombs from the Technicians you must never stand still for too long.
-
-
-|cdruid(CF-AE)|r

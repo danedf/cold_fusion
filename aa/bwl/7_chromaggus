@@ -2,14 +2,13 @@ Chromaggus Assignments
 
 
 {tank}Tank Assignments
-   Tank- |cwarriorToken|r
-   Backup Tank - |cwarriorKarnij|r
-   Time Lapse Tank= |cwarriorDecimator|r
+  Tank - |cwarriorTöken|r
+  Time Lapse/Backup Tanks - |cdruidStaff|r, |cwarriorDor|r
    
 
 {healer}Healer Assignments
-   {warrior}|cwarriorTöken|r= |cpriestKooshi|r, |cshamanTrekeus|r, |cpriestBubble|r, |cpriestHerpangina|r, |cdruidBoneskrolls|r 
-   "Cubby" Healer= |cpriestKevvlar|r, |cshamanFidyDKPMinus|r (Avoid Breaths, Can Still Tank Heal)
+  {warrior}|cwarriorTöken|r= |cpriestBubble|r, |cshamanTrekeus|r, |cpriestDilaudid|r, |cpriestHerpangina|r, |cdruidHyperchad|r 
+  "Cubby" Healer= |cpriestKevvlar|r, |cshamanSoondubu|r (Avoid Breaths, Can Still Tank Heal)
 
 |cred*If not assigned above, you are raid healing and using your class's cure ({icon spell_holy_dispelmagic} {icon spell_nature_diseasecleansingtotem} {icon spell_nature_poisoncleansingtotem} {icon spell_holy_removecurse})*|r
 
@@ -18,8 +17,4 @@ Vulnerability Testing Assignments
  MAGES DETECT MAGIC
 
 {icon spell_nature_drowsy}Tranquilizing Shot Rotation
-   |chunterTurok|r > |chunterDiji|r
-
-
-
-|cdruid(CF-AE)|r
+  |chunterLootwhore|r > |chunterZali|r > |chunterNeedforspeed|r

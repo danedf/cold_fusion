@@ -1,21 +1,18 @@
-"Three Fucks"
+"The Three Fucks"
 
 
 {tank}Tank Assignments
-   {skull}= |cwarriorKarnij|r
-   {star}= |cwarriorTöken|r
-   {square}= |cdruidStaff|r / |cwarriorDecimator|r
+  {skull}= |cwarriorTöken|r / |cwarriorXanarch|r
+  {cross}= |cdruidStaff|r / |cdruidElac|r
+  {square}= |cwarriorDor|r / |cwarriorBolge|r
  
 {healer}Healer Assignments
-   {warrior}|cwarriorKarnij|r= |cpriestKevvlar|r, |cshamanMordiggiar|r, |cpriestWazuhbee|r
-   {warrior}|cwarriorDecimator|r= |cshamanFidydkpminus|r, |cshamanTrekeus|r, |cpriestHerpangina|r
-   {warrior}|cwarriorTöken|r= |cshamanBalgus|r, |cpriestBubble|r, |cdruidBoneskrolls|r
+  {warrior}|cwarriorTöken|r / |cwarriorXanarch|r= |cpriestBubble|r, |cshamanSoondubu|r, |cshamanGorshura|r
+  {druid}cdruidStaff|r / |cdruidElac|r= |cpriestKevvlar|r, |cshamanKurzol|r, |cpriestDilaudid|r
+  {warrior}|cwarriorDor|r / |cwarriorBolge|r= |cpriestHerpangina|r, |cshamanBalgus|r, |cshamanTrekeus|r
 
 |cred*If not assigned above, you are raid healing.*|r
 
 
 Vulnerability Testing Assignments
-   Mages DETECT MAGIC
-
-
-|cdruid(CF-AE)|r
+  Mages *DETECT MAGIC*

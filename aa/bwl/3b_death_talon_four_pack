@@ -2,18 +2,15 @@ Trash without Goblins
 
 
 {tank}Tank Assignments
-   {skull}Death Talon Wyrmkin= |cwarriorKarnij|r 
-   {star}Death Talon Overseer= |cwarriorDecimator|r
-   {cross}Death Talon Overseer= |cwarriorTöken|r
-   {square}Death Talon Overseer= |cdruidStaff|r
+  {skull}Death Talon Wyrmkin= |cwarriorTöken|r
+  {cross}Death Talon Overseer= |cdruidStaff|r
+  {square}Death Talon Overseer= |cwarriorDor|r
+  {star}Death Talon Overseer= |cdruidElac|r
 
-{healer}Healer Assignments
-   {warrior}|cwarriorKarnij|r= |cpriestKevvlar|r, |cpriestWazuhbee|r
-   {warrior}|cwarriorDecimator|r= |cshamanFidydkpminus|r, |cpriestHerpangina|r
-   {warrior}|cwarriorTöken|r= |cshamanBalgus|r, |cpriestBubble|r
-   {druid}|cdruidStaff|r= |cshamanMordiggiar|r, |cshamanShaman|r
+{healer}Healer Assingments
+  {warrior}|cwarriorTöken|r= |cpriestBubble|r, |cshamanSoondubu|r
+  {druid}|cdruidStaff|r= |cpriestKevvlar|r, |cshamanKurzol|r
+  {warrior}|cwarriorDor|r= |cpriestHerpangina|r, |cshamanBalgus|r
+  {druid}|cdruidElac|r= |cpriestDilaudid|r, |cshamanTrekeus|r
 
 |cred*If not assigned above, you are raid healing.*|r
-
-
-|cdruid(CF-AE)|r
