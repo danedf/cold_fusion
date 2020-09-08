@@ -1,5 +1,24 @@
 Bug Trio Assignments
 
-  Don't put Staff on Princess Yauj
 
-  Get two warriors on Princess Yauj
+Tank the three bugs separately in different cubbies.
+Their abilities all require LoS on each other to work.
+
+{skull} Lord Kri:
+  |cdruidStaff|r= Tank
+
+{cross} Princess Yauj:
+  |cwarriorTöken|r= Main Tank
+  |cwarriorDor|r= Second Tank
+  {warrior} Warriors: Stance dance to break her fears. She will drop threat when she fears. Be ready to taunt quickly.
+
+{square} Vem:
+  |cdruidElac|r= Backup Tank
+
+|credALL|r {shaman} |cshamanShamans|r near Princess Yauj must place a Tremor Totem near the melee.
+
+{healer}Healer Assingments
+  {warrior}|cwarriorTöken|r= |cpriestBubble|r, |cshamanSoondubu|r
+  {druid}|cdruidStaff|r= |cpriestKevvlar|r, |cshamanKurzol|r
+  {warrior}|cwarriorDor|r= |cpriestHerpangina|r, |cshamanBalgus|r
+  {druid}|cdruidElac|r= |cpriestDilaudid|r, |cshamanTrekeus|r

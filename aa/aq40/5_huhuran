@@ -1,3 +1,35 @@
 Princess Huhuran
 
-List soakers
+Spread out in an arc around the boss, near where we entered the boss room.
+
+{tank}Tank Assignments
+  |cwarriorTöken|r= Main Tank
+  |cdruidStaff|r= Backup Tank
+
+|cblueDPS|r: Do **NOT** use any big cooldowns until the boss is at 30% HP.
+
+{icon spell_nature_drowsy}Tranquilizing Shot Rotation:
+  |chunterLootwhore|r > |chunterZali|r > |chunterNeedforspeed|r
+
+Use Tranquilizing Shot whenever she enrages BEFORE she is at 30% HP.
+When she is enraged she will start shooting Poison Bolts at the nearest 15 players.
+
+At 30% HP, the boss will *permanently* enrage.
+At this point, she will continuously shoot Poison Bolts at the nearest 15 players until the encounter ends.
+
+|cblueDPS|r: Use your big offensive and defensive cooldowns once the boss is at 30% HP.
+
+{healer} Healers:
+  Do **NOT** dispel Wyvern Sting on the raid (only dispel the Main Tank). If you do, you will severely damage the player.
+
+{warrior}|cwarriorWarriors|r:
+  Do not use Recklessness on this fight.
+
+|cblueSoakers|r:
+  You should have 150+ Nature Resistance unbuffed
+  We need 15 soakers to be in between the boss and the rest of the raid.
+
+{healer}Healer Assingments
+  {warrior}|cwarriorTöken|r= |cpriestBubble|r, |cshamanSoondubu|r, |cpriestKevvlar|r, |cshamanKurzol|r, |cdruidHyperchad|r
+
+|cred*If not assigned above, you are raid healing.*|r

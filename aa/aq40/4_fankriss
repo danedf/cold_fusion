@@ -1,7 +1,16 @@
 Fankriss the Unyielding Assignments
 
-Token and Staff on Fankriss
 
-Dor on Bugs
+If a worm spawns, KILL IT ASAP. Do not DPS boss until the worm is dead.
 
-Everyone else: WORMS GET KILLED ASAP
+Tanks will be taunt swapping when they have too many (3) stacks of Mortal Wound.
+
+{tank}Tank Assignments
+  |cwarriorTöken|r= Main Tank
+  |cdruidStaff|r= Second Tank
+  |cwarriorTöken|r= Bug Herder
+  |cdruidElac|r= Bug Herder
+
+{healer}Healer Assingments
+  {warrior}|cwarriorTöken|r= |cpriestBubble|r, |cshamanSoondubu|r, |cshamanBalgus|r
+  {druid}|cdruidStaff|r= |cpriestKevvlar|r, |cshamanKurzol|r, |cpriestHerpangina|r
