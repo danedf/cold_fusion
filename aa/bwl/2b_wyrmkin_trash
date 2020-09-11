@@ -10,8 +10,9 @@ Wyrmkin Trash Assignments
 {healer}Healer Assignments
   {warrior}|cwarriorTöken|r= |cpriestBubble|r, |cshamanSoondubu|r
   {druid}|cdruidStaff|r= |cpriestKevvlar|r, |cshamanKurzol|r
-  {warrior}|cwarriorDor|r= |cpriestHerpangina|r, |cshamanBalgus|r
+  {warrior}|cwarriorDor|r= |cpriestTBD|r, |cshamanBalgus|r
   {warrior}|cwarriorXanarch|r= |cpriestDilaudid|r, |cshamanTrekeus|r
+  Raid= |cpriestHerpangina|r
 
 {icon spell_nature_sleep}Hibernate Assignments (Rank 1 spam)
   {moon} Death Talon Wyrmkin= |cdruidHyperchad|r 
