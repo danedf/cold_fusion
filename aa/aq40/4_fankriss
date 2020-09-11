@@ -1,16 +1,16 @@
 Fankriss the Unyielding Assignments
 
 
-If a worm spawns, KILL IT ASAP. Do not DPS boss until the worm is dead.
-
-Tanks will be taunt swapping when they have too many (3) stacks of Mortal Wound.
-
-{tank}Tank Assignments
+{tank}|cblueTank Assignments|r:
   |cwarriorTöken|r= Main Tank
   |cdruidStaff|r= Second Tank
   |cwarriorTöken|r= Bug Herder
   |cdruidElac|r= Bug Herder
 
-{healer}Healer Assignments
+{healer}|cblueHealer Assignments|r:
   {warrior}|cwarriorTöken|r= |cpriestBubble|r, |cshamanSoondubu|r, |cshamanBalgus|r
   {druid}|cdruidStaff|r= |cpriestKevvlar|r, |cshamanKurzol|r, |cpriestHerpangina|r
+
+|cblueNOTES|r:
+  If a worm spawns, KILL IT ASAP. Do not DPS boss until the worm is dead.
+  Tanks will be taunt swapping when they have too many (3) stacks of Mortal Wound.
