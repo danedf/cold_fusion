@@ -1,13 +1,13 @@
 Battleguard Sartura Assignments
 
 
-{tank}Tank Assignments
+{tank}|cblueTank Assignments|r:
   {skull}Sartura's Royal Guard= |cdruidStaff|r 
   {cross}Sartura's Royal Guard= |cwarriorDor|r
   {square}Sartura's Royal Guard= |cdruidElac|r
   {star}Battleguard Sartura= |cwarriorTöken|r
 
-{healer}Healer Assignments
+{healer}|cblueHealer Assignments|r:
   {warrior}|cwarriorTöken|r= |cpriestBubble|r, |cshamanSoondubu|r
   {druid}|cdruidStaff|r= |cpriestKevvlar|r, |cshamanKurzol|r
   {warrior}|cwarriorDor|r= |cpriestHerpangina|r, |cshamanBalgus|r
@@ -15,5 +15,6 @@ Battleguard Sartura Assignments
 
 |credALL|r {rogue}|crogueRogues|r and {warrior}|cwarriorWarriors|r |credneed|r to ensure they are stunning the boss
 
-The boss cannot be stunned while she is spinning.
-When the boss is spinning, spread out and run from the boss.
+|cblueNOTES:|r
+  The boss cannot be stunned while she is spinning.
+  When the boss is spinning, spread out and run from the boss.
