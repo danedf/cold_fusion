@@ -1,31 +1,26 @@
 The Prophet Skeram Assignments
 
 
-|cblueSkeram splits at these percentages|r:
-  25%
-  50%
-  75%
+{Circle} |cblueSkeram splits at the following HP|r:
+  |cyellow75%|r
+  |corange50%|r
+  |cred25%|r
 
-Left (Mirror Image)
-  |cdruidStaff|r= Tank
-
-Center (The Prophet Skeram)
-  |cwarriorTöken|r= Main Tank
-  |cdruidElac|r= Backup Tank
-
-Right (Mirror Image)
-  |cwarriorDor|r= Tank
-
-|credALL|r {rogue}|crogueRogues|r and {warrior}|cwarriorWarriors|r |credneed|r to ensure they are interrupting Arcane Explosions
-|credALL|r {mage}|cmageMages|r |credneed|r to sheep Mind-Controlled targets
-
-DO NOT KILL MIND-CONTROLLED TARGETS!
-
-Kill priority
+|cblueKill priority|r
   |cred1.|r Mirror Images (low health pool)
-  |corange2.|r {Circle} The Prophet Skeram
+  |corange2.|r {circle} The Prophet Skeram
 
-{healer}Healer Assignments
+{tank}|cblueTank Assignments|r:
+  |cwarriorTöken|r= {circle}Skeram (Center Platform)
+  |cdruidStaff|r= Mirror Image (Left Platform)
+  |cwarriorDor|r= Mirror Image (Right Platform)
+
+{rogue}|crogueRogues|r and {warrior}|cwarriorWarriors|r |credneed|r to ensure they are interrupting Arcane Explosions
+{mage}|cmageMages|r |credneed|r to sheep Mind-Controlled targets
+
+|credDO NOT KILL MIND-CONTROLLED TARGETS!|r
+
+{healer}|cblueHealer Assignments|r:
   {warrior}|cwarriorTöken|r= |cpriestBubble|r, |cshamanSoondubu|r
   {druid}|cdruidStaff|r= |cpriestKevvlar|r, |cshamanKurzol|r
   {warrior}|cwarriorDor|r= |cpriestHerpangina|r, |cshamanBalgus|r
