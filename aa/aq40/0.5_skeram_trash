@@ -1,16 +1,16 @@
 Anubish Sentinel Assignments
 
 
-|cblueAnubish Sentinel Abilities (ranked from least to MOST dangerous)|r:
-  1. Reflect Shadow / Frost
-  2. Reflect Arcane / Fire
-  3. Mending (strong heal over time)
-  4. Knockback and immunity to taunt
-  5. Mortal Strike (-50% healing on target)
-  6. Thorns (~500 damage reflected per melee hit)
-  7. AoE Mana Burn
-  8. Thunderclap (big damage on nearby players)
-  9. Shadowbolt Volley (huge damage on whole raid)
+|cblueAnubish Sentinel Abilities|r (ranked from least to MOST dangerous):
+  |cblue1. Reflect Shadow / Frost|r
+  |cblue2. Reflect Arcane / Fire|r
+  |cgreen3. Mending (strong heal over time)|r
+  |cgreen4. Knockback and immunity to taunt|r
+  |cgreen5. Mortal Strike (-50% healing on target)|r
+  |cyellow6. Thorns (~500 damage reflected per melee hit)|r
+  |cyellow7. AoE Mana Burn|r
+  |corange8. Thunderclap (big damage on nearby players)|r
+  |cred9. Shadowbolt Volley (huge damage on whole raid)|r
 
 |cblueTank Targets|r:
   1. {square} Token
@@ -23,3 +23,6 @@ Anubish Sentinel Assignments
   {druid}|cdruidStaff|r= |cpriestKevvlar|r, |cshamanKurzol|r
   {warrior}|cwarriorDor|r= |cpriestHerpangina|r, |cshamanBalgus|r
   {druid}|cdruidElac|r= |cpriestDilaudid|r, |cshamanTrekeus|r
+
+|cblueNOTE|r:
+  When a Sentinel dies, the remaining Sentinels gain its special ability. This is why we kill the least dangerous first.
