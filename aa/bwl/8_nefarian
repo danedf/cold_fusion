@@ -7,7 +7,7 @@ Nefarian Assignments
 {tank}Tank Assignments
 
   Odds(LEFT ON TOKEN)= |cwarriorTöken|r, |cdruidElac|r
-  Evens(RIGHT ON DECI)= |cdruidStaff|r, |cwarriorDor|r
+  Evens(RIGHT ON STAFF)= |cdruidStaff|r, |cwarriorDor|r
 
 {healer}Healer Assignments (PAY ATTENTION TO YOUR SIDE)
   {warrior}|cwarriorTöken|r= |cpriestBubble|r, |cshamanSoondubu|r
