@@ -1,15 +1,34 @@
-Anubish Defender Assignments
+Anubisath Defender Assignments
 
 
-These mobs can have multiple nasty abilities, such as school spell reflection, add summoning and thunderclaps, but the three main abilities you need to be aware of are:
+{tank} Melee Group
+  {square} |cwarriorTöken|r= Melee Leader/Main Tank
 
-  |credMeteor|r, which causes huge damage to a player, split amongst all nearby players.
-  |cgreenPlague|r, which makes a player radiate nature damage to nearby allies.
-  |cyellowExplode|r, which is cast at low health and will kill any nearby players upon completion.
+{healer} Ranged Group
+  {circle} |cshamanSoondubu|r= Ranged Leader
 
-Against Meteor, you want to have your group stacked, as any small groups of players hit by it will die instantly.
+Potential Ability Combinations
 
-However, any player with |cgreenPlague|r must separate themselves from the group to avoid raid damage.
+|credMeteor|r & |cpurpleShadow Storm|r:
+  {square}Melee and {circle}Ranged groups stack on boss
 
-Finally, make sure you save your best damage abilities for when they start casting |cyellowExplode|r.
-Failing to kill them before the cast finishes can result in a lot of deaths.
+|cgreenPlague|r & |cblueThunderclap|r:
+  {circle}Ranged stay at max range
+  If you get the |cgreenPlague|r, run out of the raid. You may die {skull}.
+
+|credMeteor|r & |cblueThunderclap|r:
+  {square}Stack tight in melee range
+  {circle}Stack tight at max range
+
+|cgreenPlague|r & |cpurpleShadow Storm|r:
+  {square}Melee and {circle}Ranged groups stack on boss
+  If you get the |cgreenPlague|r, run out of the raid. You may die {skull}.
+
+|cblueAt 10% HP|r, will either |cyellowENRAGE|r or |credEXPLODE|r
+
+|cyellowENRAGE|r:
+Big {healer}heals and {dps}damage
+
+|credEXPLODE|r:
+{icon ability_rogue_sprint} Run away, little girl! Run away!
+If his hands are glowing |credred|r, he is rooted in place.
